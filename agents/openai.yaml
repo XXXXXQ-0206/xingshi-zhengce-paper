@@ -1,0 +1,4 @@
+interface:
+  display_name: "形势与政策课程论文语料"
+  short_description: "写《形势与政策》课程论文时直接取句、化用、仿写的语料库"
+  default_prompt: "用 $xingshi-zhengce-paper 写一篇《形势与政策》课程论文。"
